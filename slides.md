@@ -371,13 +371,15 @@ Hits most recommendations for a Code of Conduct, but:
 
 ## References
 
-* *[How to Respond to Reports of Code of Conduct Violations](https://frameshiftconsulting.com/code-of-conduct-book/)*, (Valerie Aurora and Mary Gardiner, 2019)
-* Code of Conduct template, Sage Sharp of [otter.technology](https://otter.technology) (https://github.com/sagesharp/code-of-conduct-template)
-* Ada Initiative (https://adainitiative.org/)
-* Geek Feminism Wiki (https://geekfeminism.wikia.org/wiki/Community_anti-harassment)
-* Contributor Covenant (https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
-* [Code of Conduct in Open Source Projects](https://www.researchgate.net/publication/315638638_Code_of_conduct_in_open_source_projects), (Tourani, Adams, and Serebrenik 2017) (DOI: 10.1109/SANER.2017.7884606)
-* *[Defining and Developing an Effective Code of Conduct for Organizations](https://www.ifac.org/about-ifac/professional-accountants-business/publications/defining-and-developing-effective-code-conduct-organizations-2)*, (PAIB Committee 2007)
+* [How to Respond to Reports of Code of Conduct Violations](https://frameshiftconsulting.com/code-of-conduct-book/), Aurora, Gardiner 2019
+* [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template), Sage Sharp ([otter.technology](https://otter.technology))
+* [Enforcing Your Code of Conduct: Effective Incident Response](https://www.youtube.com/watch?v=nizfHxg8y3o), Audrey Eschright
+* [Code of Conduct Handbook](https://github.com/olasitarska/coc-handbook), Sendecka, Sitarska
+* [Ada Initiative](https://adainitiative.org/)
+* Geek Feminism Wiki [Community anti-harassment](https://geekfeminism.wikia.org/wiki/Community_anti-harassment)
+* [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+* [Code of Conduct in Open Source Projects](https://doi.org/10.1109/SANER.2017.7884606), Tourani, Adams, and Serebrenik 2017
+* [Defining and Developing an Effective Code of Conduct for Organizations](https://www.ifac.org/about-ifac/professional-accountants-business/publications/defining-and-developing-effective-code-conduct-organizations-2), PAIB Committee 2007
 Note:
 
 * Much guidance is from Valerie Aurora and Mary Gardiner (CC-BY-SA license)
